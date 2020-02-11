@@ -1,0 +1,12 @@
+---
+title: "README ------> rmarkdown turns into a pretty README.md"
+author: "grace douglas"
+date: "2/11/2020"
+output: md_document
+---
+
+```{r test graph}
+hist(rnorm(100))
+
+
+```
